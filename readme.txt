@@ -26,10 +26,10 @@ Display an exchange rate table for any currency in the world. Select from a choi
 
 == Screenshots ==
 
-1. Short table with currency codes
-2. Short table with country names
-3. Short table with country names
-4. Medium size table with currency codes
+1. Short table (Euro) with currency codes 
+2. Short table (Euro) with country names
+3. Short table (Euro) with currency names
+4. Medium size (Euro) with currency codes
 
 == Changelog ==
 
