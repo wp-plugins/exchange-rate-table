@@ -1,7 +1,7 @@
 === Exchange Rate Table ===
 Contributors: fx-rate.net
 Donate link: http://www.fx-rate.net/
-Tags: currency exchange, exchange rates, forex, foreign exchange, fx rates
+Tags: currency exchange, exchange rates, forex, foreign exchange, fx rates, EUR, USD, CAD, GBP, USD, dollar, euro, sterling rates
 Tested up to: 2.9.1
 Requires at least: 1.5
 Stable tag: trunk
