@@ -15,6 +15,7 @@ Display an exchange rate table for any currency in the world. Select from a choi
 * Select sizes and display formats
 * Updated once a day from central banks and government institutions
 
+Please rate my plugin!
 
 == Installation ==
 
