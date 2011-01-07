@@ -2,7 +2,7 @@
 /*
 Plugin Name: Exchange Rate Table
 Description: Exchange Rate Table for any currency in the world. Choose the currency to display and the table size and format.
-Author: fx-rate.net
+Author: enclick
 Version: 1.0
 Author URI: http://fx-rate.net
 Plugin URI: http://fx-rate.net/wordpress-exchange-rate-plugin/
