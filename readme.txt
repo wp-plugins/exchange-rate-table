@@ -1,5 +1,5 @@
 === Exchange Rate Table ===
-Contributors: fx-rate.net
+Contributors: enclick
 Donate link: http://www.fx-rate.net/
 Tags: currency exchange, currency rates, exchange rates, forex, foreign exchange, fx rates, EUR, USD, CAD, GBP, USD, dollar, euro, sterling rates
 Tested up to: 3.0.1
