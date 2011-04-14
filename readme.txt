@@ -11,11 +11,9 @@ Stable tag: 1.0
 
 Display an exchange rate table for any currency in the world. Select from a choice of table sizes and formats.
 
-* Select the currency to display
-* Select sizes and display formats
+* Choise of over 200 currencies
+* Severl display formats and adjustable width
 * Updated once a day from central banks and government institutions
-
-Please rate my plugin!
 
 == Installation ==
 
@@ -24,6 +22,8 @@ Please rate my plugin!
 3. Go to Plugins > Installed, and activate the plugin,
 4. Go to Appearance > Widgets, and drag the widget to a sidebar,
 5. Select your currency, and the size and other currency options
+6. Email any problems to widgets at fx-rate.net
+7. Please rate my plugin!
 
 == Screenshots ==
 
@@ -46,3 +46,6 @@ The table values are updated once a day 8am GMT from central bank and financial 
 
 = Is there support  ? = 
 Further support is available at [fx-rate.net/support](http://fx-rate.net/wordpress-exchange-rate-plugin/) 
+
+= Email = 
+Send comments and suggestions to widgets at fx-rate.net
