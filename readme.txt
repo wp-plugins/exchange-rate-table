@@ -44,6 +44,9 @@ Display an exchange rate table for any currency in the world. Select from a choi
 = How frequently are the values updated? =
 The table values are updated once a day 8am GMT from central bank and financial institution sources. 
 
+= Can I paste the exchange rate table into a post ? =
+Yes, javascript code is available directly from [fx-rate.net](http://fx-rate.net/). You have to paste the javascript into the post in HTML mode.
+
 = Is there support  ? = 
 Further support is available at [fx-rate.net/support](http://fx-rate.net/wordpress-exchange-rate-plugin/) 
 
