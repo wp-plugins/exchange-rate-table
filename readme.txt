@@ -12,7 +12,7 @@ Stable tag: 1.0
 Display an exchange rate table for any currency in the world. Select from a choice of table sizes and formats.
 
 * Choise of over 200 currencies
-* Severl display formats and adjustable width
+* Several display formats and an adjustable width
 * Updated once a day from central banks and government institutions
 
 == Installation ==
