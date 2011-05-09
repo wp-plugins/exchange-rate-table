@@ -1,7 +1,7 @@
 === Exchange Rate Table ===
 Contributors: enclick
 Donate link: http://www.fx-rate.net/
-Tags: currency exchange, currency rates, exchange rates, forex, foreign exchange, fx rates, EUR, USD, CAD, GBP, USD, dollar, euro, sterling rates
+Tags: currency exchange, currency exchange, currency rates, exchange rates, forex, foreign exchange, fx rates, EUR, USD, CAD, GBP, USD, dollar, euro, sterling rates
 Tested up to: 3.0.1
 Requires at least: 1.5
 Stable tag: 1.0
@@ -21,16 +21,16 @@ Display an exchange rate table for any currency in the world. Select from a choi
 2. Upload the folder `exchange-rate-table` to your WP plugin folder `/wp-content/plugins/` directory,
 3. Go to Plugins > Installed, and activate the plugin,
 4. Go to Appearance > Widgets, and drag the widget to a sidebar,
-5. Select your currency, and the size and other currency options
+5. Select your currency, then the size and layout of the table
 6. Email any problems to widgets at fx-rate.net
 7. Please rate my plugin!
 
 == Screenshots ==
 
-1. Short table (Euro) with currency codes 
-2. Short table (Euro) with country names
-3. Short table (Euro) with currency names
-4. Medium size (Euro) with currency codes
+1. Short table (currency: Euro) with currency codes 
+2. Short table (currency:Euro) with country names
+3. Short table (currency:Euro) with currency names
+4. Medium size (currency:Euro) with currency codes
 
 == Changelog ==
 
