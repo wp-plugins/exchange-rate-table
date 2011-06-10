@@ -23,7 +23,7 @@ Display an exchange rate table for any currency in the world. Select from a choi
 3. Go to Plugins > Installed, and activate the plugin,
 4. Go to Appearance > Widgets, and drag the widget to a sidebar,
 5. Select your currency, then the size and layout of the table
-6. Email any problems to widgets at fx-rate.net
+6. Please Email us any problems to widgets at fx-rate.net, we appreciate the help in improving the plugin
 7. If you find the widget useful, please take the time to rate our plugin. Thank you.
 
 == Screenshots ==
@@ -31,9 +31,9 @@ Display an exchange rate table for any currency in the world. Select from a choi
 1. Short table for the Japanese Yen with codes
 2. Short table for the Dollar with countries
 3. Short table for the Euro with currency names
-4. Medium size table for the HK Dollar with countries
-5. Admin panel
-6. Medium for the Euro with country names
+4. Admin panel
+5. Medium for the Euro with country names
+6. Medium size table for the HK Dollar with countries
 
 == Changelog ==
 
