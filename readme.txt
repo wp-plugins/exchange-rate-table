@@ -27,10 +27,12 @@ Display an exchange rate table for any currency in the world. Select from a choi
 
 == Screenshots ==
 
-1. Short table (currency: Euro) with currency codes 
-2. Short table (currency:Euro) with country names
-3. Short table (currency:Euro) with currency names
-4. Medium size (currency:Euro) with currency codes
+1. Short table for the Japanese Yen with codes
+2. Short table for the Dollar with countries
+3. Short table for the Euro with currency names
+4. Medium size table for the HK Dollar with countries
+5. Admin panel
+6. Medium for the Euro with country names
 
 == Changelog ==
 
