@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Exchange Rate Table
-Description: Exchange Rate Table for any currency in the world. Choose the currency to display and the table size and format.
+Description: Exchange Rate Table for any currency in the world. Choose the currency to display, header colors and the table size and format.
 Author: enclick
 Version: 1.1
 Author URI: http://fx-rate.net
