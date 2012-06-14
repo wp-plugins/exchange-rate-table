@@ -1,10 +1,10 @@
 === Exchange Rate Table ===
 Contributors: enclick
 Donate link: http://www.fx-rate.net/
-Tags: currency exchange, currency exchange, currency rates, exchange rates, forex, foreign exchange, fx rates, EUR, USD, CAD, GBP, USD, dollar, euro, sterling rates
-Tested up to: 3.0.1
+Tags: exchange rates, currency rates, currency exchange, fx, foreign exchange, fx rates, euro, EUR, USD
+Tested up to: 3.4
 Requires at least: 2.8
-Stable tag: 1.1
+Stable tag: 1.2
 
 
 == Description ==
@@ -23,7 +23,7 @@ Display an exchange rate table for any currency in the world. Select from a choi
 3. Go to Plugins > Installed, and activate the plugin,
 4. Go to Appearance > Widgets, and drag the widget to a sidebar,
 5. Select your currency, then the size and layout of the table
-6. Email any problems to widgets at fx-rate.net
+6. Please Email us any problems to widgets at fx-rate.net, we appreciate the help in improving the plugin
 7. If you find the widget useful, please take the time to rate our plugin. Thank you.
 
 == Screenshots ==
@@ -31,11 +31,16 @@ Display an exchange rate table for any currency in the world. Select from a choi
 1. Short table for the Japanese Yen with codes
 2. Short table for the Dollar with countries
 3. Short table for the Euro with currency names
-4. Medium size table for the HK Dollar with countries
-5. Admin panel
-6. Medium for the Euro with country names
+4. Admin panel
+5. Medium for the Euro with country names
+6. Medium size table for the HK Dollar with countries
 
 == Changelog ==
+
+= 1.2 =
+* Released 14/06/2012
+* Flag images are now included in the plugin
+* Plugin makes one call to an external site for real time exchange rate data
 
 = 1.1 =
 * Released 11/06/2011
@@ -54,8 +59,12 @@ The table values are updated once a day 8am GMT from central bank and financial 
 = Can I paste the exchange rate table into a post ? =
 Yes, javascript code is available directly from [fx-rate.net](http://fx-rate.net/). You have to paste the javascript into the post in HTML mode.
 
+= My currency is not on the list
+The plugin includes codes for the top 50 currencies world wide. Additional currencies are available directly from fx-rate.net, as described above
+
 = Is there support  ? = 
 Further support is available at [fx-rate.net/support](http://fx-rate.net/wordpress-exchange-rate-plugin/) 
 
 = Email = 
 Send comments and suggestions to widgets at fx-rate.net
+
