@@ -2,7 +2,7 @@
 Contributors: enclick
 Donate link: http://www.fx-rate.net/
 Tags: currency exchange, currency exchange, currency rates, exchange rates, forex, foreign exchange, fx rates, EUR, USD, CAD, GBP, USD, dollar, euro, sterling rates
-Tested up to: 3.2
+Tested up to: 3.4
 Requires at least: 2.8
 Stable tag: 1.1
 
