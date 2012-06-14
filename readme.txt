@@ -4,7 +4,7 @@ Donate link: http://www.fx-rate.net/
 Tags: currency exchange, currency rates, exchange rates, forex, foreign exchange, fx rates, EUR, USD, CAD, GBP, USD, dollar, euro, sterling rates
 Tested up to: 3.0.1
 Requires at least: 1.5
-Stable tag: 1.1
+Stable tag: 1.2
 
 
 == Description ==
