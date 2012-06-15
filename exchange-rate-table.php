@@ -206,7 +206,7 @@ class exchange_rate_table extends WP_Widget
 	     	$title_checked = "CHECKED";
 
 		echo "\n";
-		echo '<p><label for="' .$this->get_field_id( 'tflag' ). '"> Widget Title: 
+		echo '<p><label for="' .$this->get_field_id( 'tflag' ). '"> Table header (Title & fx-rate Link): 
 	     <input type="checkbox" id="' .$this->get_field_id( 'tflag' ). '" name="' .$this->get_field_name( 'tflag' ). '" value=1 '.$title_checked.' /> 
 	     </label></p>';
 
