@@ -39,6 +39,7 @@ Display an exchange rate table for any currency in the world. Select from a choi
 
 = 1.2 =
 * Released 14/06/2012
+* In detail compliance with Wordpress Plugin Guidelines
 * Flag images are now included in the plugin
 * Plugin makes one call to an external site for real time exchange rate data
 
